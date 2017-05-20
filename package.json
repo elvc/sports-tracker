@@ -1,6 +1,6 @@
 {
   "name": "sports-tracker",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "an app for viewing sports scores of various sports and chatting about live games",
   "main": "index.js",
   "scripts": {
